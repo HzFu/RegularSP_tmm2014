@@ -10,3 +10,5 @@ Please cite the follow papers if you used or was inspired by this code/work:
 
 This code is a primitive MATLAB code, which is simpler than that we used in the paper.
 If you find any bugs, please contact Huazhu Fu (huazhufu@gmail.com).
+
+Note: this code needs Bioinformatics Toolbox of MATLAB for 'graphshortestpath' function.
